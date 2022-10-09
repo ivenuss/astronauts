@@ -62,3 +62,6 @@ cd techfides
 yarn install
 yarn dev
 ```
+
+## Náhled
+![image](https://user-images.githubusercontent.com/43939822/194782789-2eb94317-f0af-4604-a357-7fd280d3c028.png)
