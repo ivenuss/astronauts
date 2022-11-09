@@ -57,8 +57,8 @@ Jeden z nejpopulárnějších databázových providerů na trhu. Setup samotné 
 ## Spuštění lokálně
 
 ```
-git clone https://github.com/ivenuss/techfides.git
-cd techfides
+git clone https://github.com/ivenuss/astronauts.git
+cd astronauts
 yarn install
 yarn dev
 ```
