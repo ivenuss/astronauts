@@ -1,4 +1,4 @@
-# TechFides Task
+# Astronauts Task
 
 ## Postup
 
